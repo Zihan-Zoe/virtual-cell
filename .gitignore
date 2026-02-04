@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / venv
+.env
+.venv
+virtualcell/
+
+# Data (DO NOT COMMIT)
+data/*.h5ad
+data/**/*.h5ad
+
+# Jupyter output
+*.ipynb
+
+# OS
+.DS_Store

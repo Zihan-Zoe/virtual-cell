@@ -1,0 +1,31 @@
+name: virtualcell
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+
+  # Core single-cell / h5ad
+  - anndata>=0.10
+  - scanpy>=1.10
+  - h5py>=3.10
+  - pandas>=2.0
+  - numpy>=1.24
+  - scipy>=1.10
+
+  # Common ML
+  - scikit-learn>=1.3
+  - pytorch>=2.2
+  - torchvision
+  - torchaudio
+
+  # Quality-of-life
+  - jupyterlab
+  - ipykernel
+  - tqdm
+  - matplotlib
+
+  # Optional but useful for big data / speed
+  - pytables
+  - numba
