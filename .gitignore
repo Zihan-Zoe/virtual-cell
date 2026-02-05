@@ -13,7 +13,7 @@ data/*.h5ad
 data/**/*.h5ad
 
 # Jupyter output
-*.ipynb
+# *.ipynb
 
 # OS
 .DS_Store
