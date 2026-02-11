@@ -1,0 +1,72 @@
+gene_symbol,category,notes
+TH,Biosynthesis,"Tyrosine hydroxylase, rate-limiting enzyme converting tyrosine to L-DOPA"
+DDC,Biosynthesis,"Dopa decarboxylase, converts L-DOPA to dopamine"
+GCH1,Cofactor/BH4,"GTP cyclohydrolase 1, rate-limiting for BH4 synthesis"
+PTS,Cofactor/BH4,"6-pyruvoyl-tetrahydropterin synthase, BH4 pathway"
+SPR,Cofactor/BH4,"Sepiapterin reductase, BH4 pathway"
+QDPR,Cofactor/BH4,"Quinoid dihydropteridine reductase, BH4 recycling"
+ALDH1A1,DA subtype marker,"Aldehyde dehydrogenase, marker for some midbrain DA neurons"
+SLC6A3,Transporter,"DAT, dopamine reuptake transporter"
+SLC18A2,Vesicular transport,"VMAT2, vesicular monoamine transporter 2"
+SLC18A1,Vesicular transport,"VMAT1, non-neuronal/embryonic VMAT"
+MAOA,Catabolism,"Monoamine oxidase A, dopamine catabolism"
+MAOB,Catabolism,"Monoamine oxidase B, dopamine catabolism"
+COMT,Catabolism,"Catechol-O-methyltransferase, extracellular dopamine catabolism"
+ALDH2,Metabolism,"Aldehyde dehydrogenase, detox of dopamine-derived aldehydes"
+DRD1,Receptor,Dopamine receptor D1 family
+DRD2,Receptor,"Dopamine receptor D2, also autoreceptor on DA neurons"
+DRD3,Receptor,Dopamine receptor D3
+DRD4,Receptor,Dopamine receptor D4
+DRD5,Receptor,Dopamine receptor D5
+NR4A2,TF,"NURR1, critical for DA neuron development and TH expression"
+LMX1A,TF,Key developmental TF for midbrain DA neurons
+LMX1B,TF,Partner TF for DA development
+FOXA2,TF,"Floor-plate TF, required for midbrain DA specification"
+PITX3,TF,"Midbrain DA neuron TF, linked to survival"
+EN1,TF,"Engrailed-1, DA neuron maintenance"
+EN2,TF,"Engrailed-2, DA neuron survival/function"
+ASCL1,TF,Neurogenic TF used in reprogramming to DA fate
+REST,TF,Transcriptional repressor that influences neuronal gene programs
+SNCA,PD gene,"Alpha-synuclein, central to PD pathology"
+LRRK2,PD gene,"Leucine-rich repeat kinase 2, common familial PD gene"
+GBA1,PD risk/lysosome,"Glucocerebrosidase, lysosomal function linked to PD risk"
+PARK2,PD gene,"Parkin, E3 ubiquitin ligase involved in mitophagy"
+PINK1,PD gene,"Mitochondrial kinase, mitophagy regulator"
+PARK7,PD gene,"DJ-1, oxidative stress sensor"
+UCHL1,PD gene,"Ubiquitin carboxyl-terminal hydrolase L1, proteostasis"
+MAPT,Risk gene,"Tau, implicated in neurodegeneration and synaptic dysfunction"
+NDUFS1,Mitochondria,"Complex I subunit, mitochondrial respiration"
+NDUFV1,Mitochondria,Complex I subunit
+COX4I1,Mitochondria,Complex IV subunit
+ATP5A1,Mitochondria,ATP synthase subunit
+SOD2,Oxidative stress,Mitochondrial superoxide dismutase
+GPX1,Oxidative stress,Glutathione peroxidase
+NFE2L2,Oxidative stress TF,"NRF2, master regulator of antioxidant response"
+HSPA5,ER stress,"BiP/GRP78 chaperone, UPR marker"
+ATF4,UPR,UPR transcription factor
+DDIT3,UPR,"CHOP, pro-apoptotic UPR factor"
+BAX,Apoptosis,Pro-apoptotic effector
+CASP3,Apoptosis,Executioner caspase
+SQSTM1,Autophagy/proteostasis,"p62, autophagy adaptor"
+LAMP2,Lysosome,"Lysosomal membrane protein, autophagy/mitophagy"
+CTSB,Lysosomal enzyme,Cathepsin B
+SYN1,Synaptic,"Synapsin I, synaptic vesicle regulation"
+SYP,Synaptic,"Synaptophysin, vesicle protein"
+SNAP25,Synaptic,SNARE protein required for vesicle fusion
+VAMP2,Synaptic,"Synaptobrevin, vesicle fusion"
+CPLX1,Synaptic,"Complexin, regulates vesicle release"
+SLC11A2,Iron transport,"Divalent metal transporter 1, iron uptake"
+TFRC,Iron transport,Transferrin receptor
+FTL,Iron storage,Ferritin light chain
+RAB3A,Vesicle trafficking,"Rab3A, synaptic vesicle trafficking"
+RAB7A,Endolysosomal,Endosome-lysosome trafficking
+BDNF,Trophic factor,Neurotrophic support for DA neurons
+GDNF,Trophic factor,"Glial cell line-derived neurotrophic factor, supports DA survival"
+NTRK2,Receptor,TrkB receptor for BDNF
+TNF,Inflammation,Proinflammatory cytokine
+IL1B,Inflammation,Interleukin-1 beta
+CX3CR1,Microglia,"Fractalkine receptor, neuron-microglia crosstalk"
+CAMK2A,Kinase,"Calcium/calmodulin-dependent kinase II alpha, synaptic plasticity"
+GSK3B,Kinase,"Glycogen synthase kinase 3 beta, tau phosphorylation, stress responses"
+THAP1,Transcriptional regulator,Linked to movement disorders
+ALDH1A3,Marker,Related aldehyde dehydrogenases in neuronal subtypes
